@@ -3,4 +3,11 @@
     padding: 0;
 }
 
+button {
+    background-color: rgba(100, 194, 5, 0.76);
+    border: none;
+}
 
+div.footer {
+    background-color: rgb(51, 82, 112);
+}
