@@ -9,5 +9,7 @@ button {
 }
 
 div.footer {
-    background-color: rgb(51, 82, 112);
+   
+    background-image: linear-gradient(to right, #3D5465 , #416E90);
+    
 }
