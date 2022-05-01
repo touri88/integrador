@@ -13,3 +13,7 @@ div.footer {
     background-image: linear-gradient(to right, #3D5465 , #416E90);
     
 }
+
+#img{
+    filter:brightness(50%);
+}
